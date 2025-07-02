@@ -1,0 +1,6 @@
+gradio
+google-generativeai
+pytube
+PyPDF2
+python-dotenv
+youtube-transcript-api
